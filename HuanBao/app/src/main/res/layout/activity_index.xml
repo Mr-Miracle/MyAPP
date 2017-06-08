@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_index"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.admin.huanbao.IndexActivity">
+
+    <ImageView
+        android:id="@+id/images"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/yuytjh"/>
+
+    <Button
+        android:layout_width="2dp"
+        android:layout_height="90dp"
+        android:id="@+id/button_yc"
+        android:layout_marginLeft="190dp"
+        android:layout_marginTop="170dp"
+        />
+
+</FrameLayout>

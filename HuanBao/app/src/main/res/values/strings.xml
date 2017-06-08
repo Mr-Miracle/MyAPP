@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HuanBao</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">邮箱</string>
+    <string name="prompt_password">密码</string>
+    <string name="action_sign_in">登 录</string>
+    <string name="action_sign_in_short">进入</string>
+    <string name="error_invalid_email">这个邮箱地址是扯淡的！</string>
+    <string name="error_invalid_password">这个密码跟你一样短！</string>
+    <string name="error_incorrect_password">登录名或者密码不正确！</string>
+    <string name="error_field_required">这是必填的！</string>
+    <string name="permission_rationale">"提供电子邮件需要获取联系人权限。"</string>
+    <string name="my_app_name">寻找皮卡丘</string>
+</resources>
